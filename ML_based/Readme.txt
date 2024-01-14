@@ -1,0 +1,1 @@
+run kmean.ipynb, the result will show in the notbook.
